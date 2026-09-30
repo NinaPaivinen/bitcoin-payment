@@ -156,3 +156,8 @@ Payment confirmed
 
 ![alt text](images/image.png)
 ![alt text](images/image-2.png)
+
+## 📄 License
+
+This project is [Apache License 2.0](LICENSE).
+
